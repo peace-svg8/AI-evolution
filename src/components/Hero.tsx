@@ -31,8 +31,8 @@ export default function Hero() {
         >
           <div className="w-1 h-1 rounded-full bg-white animate-pulse" />
           <p className="text-[13px] font-medium leading-none">
-            <span className="text-white/60">Early access available from</span>{" "}
-            <span className="text-white">May 1, 2026</span>
+            <span className="text-white/60">Now exploring the latest</span>{" "}
+            <span className="text-white">Generative AI Breakthroughs</span>
           </p>
         </motion.div>
 
